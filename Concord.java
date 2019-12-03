@@ -3,7 +3,6 @@ Richard Saint-Fleur
 CISC 3130
 Homework 3
  */
-package concord;
 
 import java.util.*;
 import java.io.*;
