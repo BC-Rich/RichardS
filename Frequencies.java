@@ -3,7 +3,6 @@ Richard Saint-Fleur
 CISC 3130 Assignment 3
 Frequencies.java
  */
-package frequencies;
 
 import java.util.*;
 import java.io.*;
